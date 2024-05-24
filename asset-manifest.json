@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/phoneproduct-react/static/css/main.e6c13ad2.css",
+    "main.js": "/phoneproduct-react/static/js/main.9ea267b3.js",
+    "index.html": "/phoneproduct-react/index.html",
+    "main.e6c13ad2.css.map": "/phoneproduct-react/static/css/main.e6c13ad2.css.map",
+    "main.9ea267b3.js.map": "/phoneproduct-react/static/js/main.9ea267b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9ea267b3.js"
+  ]
+}
